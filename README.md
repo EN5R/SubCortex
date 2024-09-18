@@ -1,7 +1,7 @@
 
-# SubDoxer
+# SubCortex
 
-SubDoxer is a fast and effective tool designed for discovering valid subdomains for websites. It performs passive subdomain enumeration by collecting data from various sources.
+SubCortex is a fast and effective tool designed for discovering valid subdomains for websites. It performs passive subdomain enumeration by collecting data from various sources.
 
 
 ## Features
@@ -22,7 +22,7 @@ SubDoxer is a fast and effective tool designed for discovering valid subdomains 
 You can view the usage instructions with the following command:
 
 ```bash
-  python3.12 SubDoxer.py -h
+  python3.12 subcortex.py -h
 ```
 
 ## Examples
@@ -30,11 +30,11 @@ You can view the usage instructions with the following command:
 To collect subdomains:
 
 ```bash
-  python3.12 SubDoxer.py -d example.com
+  python3.12 subcortex.py -d example.com
 ```
 ## Installation
 
-SubDoxer can be easily installed along with its required libraries as follows:
+SubCortex can be easily installed along with its required libraries as follows:
 
 ```bash
   pip3.12 install -r requirements.txt
@@ -42,16 +42,16 @@ SubDoxer can be easily installed along with its required libraries as follows:
     
 ## Running
 
-You can run SubDoxer with the following command:
+You can run SubCortex with the following command:
 
 ```bash
-  python3.12 SubDoxer.py -d example.com
+  python3.12 subcortex.py -d example.com
 ```
 
 
 ## About the Project
 
-SubDoxer collects its resources through APIs. Key sources used for gathering subdomains include:
+SubCortex collects its resources through APIs. Key sources used for gathering subdomains include:
 
 - **Traceninja:** TraceNinja is a subdomain enumeration tool. [**TraceNinja's LINK**](https://github.com/mohdh34m/TraceNinja)
 

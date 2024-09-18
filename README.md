@@ -59,6 +59,8 @@ SubCortex collects its resources through APIs. Key sources used for gathering su
 
 - **Assetfinder:** Finds subdomains for a specified domain. [**Assetfinder LINK**](https://github.com/projectdiscovery/subfinder)
 
+- **VirusTotal:** VirusTotal provides information about subdomains by analyzing domain records and DNS information through its public API. [**VirusTotal LINK**](https://www.virustotal.com/gui/my-apikey)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EN5R/)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://www.buymeacoffee.com/EN5R)

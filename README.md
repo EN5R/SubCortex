@@ -57,7 +57,7 @@ Before running the Python file or if you encounter the "Your VirusTotal API key 
    ```python
    VT_API_KEY = 'your_virustotal_api_key_here' 
    ```
-3. Replace 'your_virustotal_api_key_here' with your actual VirusTotal API key.
+3. Replace 'your_virustotal_api_key_here' with your actual [**VirusTotal API KEY**](https://www.virustotal.com/gui/my-apikey)
 4. Save the file and try running the program again.
 
 

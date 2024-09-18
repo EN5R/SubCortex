@@ -22,7 +22,7 @@ SubDoxer is a fast and effective tool designed for discovering valid subdomains 
 You can view the usage instructions with the following command:
 
 ```bash
-python3.12 SubDoxer.py -h
+  python3.12 SubDoxer.py -h
 ```
 
 ## Examples
@@ -30,7 +30,7 @@ python3.12 SubDoxer.py -h
 To collect subdomains:
 
 ```bash
-python3.12 SubDoxer.py -d example.com
+  python3.12 SubDoxer.py -d example.com
 ```
 ## Installation
 

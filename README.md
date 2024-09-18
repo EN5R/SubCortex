@@ -55,7 +55,7 @@ Before running the Python file or if you encounter the "Your VirusTotal API key 
 1. Open the `subcortex.py` file.
 2. Locate the following line:
    ```python
-   VT_API_KEY = 'your_virustotal_api_key_here'. 
+   VT_API_KEY = 'your_virustotal_api_key_here' 
    ```
 3. Replace 'your_virustotal_api_key_here' with your actual VirusTotal API key.
 4. Save the file and try running the program again.

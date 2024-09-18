@@ -53,11 +53,11 @@ You can run SubDoxer with the following command:
 
 SubDoxer collects its resources through APIs. Key sources used for gathering subdomains include:
 
-- **Traceninja:** TraceNinja is a subdomain enumeration tool.
+- **Traceninja:** TraceNinja is a subdomain enumeration tool. [**TraceNinja's LINK**](https://github.com/mohdh34m/TraceNinja)
 
-- **Subfinder:** Discovers subdomains from passive sources.
+- **Subfinder:** Discovers subdomains from passive sources. [**Subfinder LINK**](https://github.com/projectdiscovery/subfinder)
 
-- **Assetfinder:** Finds subdomains for a specified domain.
+- **Assetfinder:** Finds subdomains for a specified domain. [**Assetfinder LINK**](https://github.com/projectdiscovery/subfinder)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EN5R/)

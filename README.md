@@ -14,7 +14,7 @@ SubCortex is a fast and effective tool designed for discovering valid subdomains
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/EN5R/SubCortex/main/SubCortex.png)
+![App Screenshot](https://raw.githubusercontent.com/EN5R/SubCortex/refs/heads/main/src/SubCortex.png)
 
 
 ## Usage

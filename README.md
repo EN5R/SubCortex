@@ -65,11 +65,23 @@ Before running the Python file or if you encounter the "Your VirusTotal API key 
 
 SubCortex collects its resources through APIs. Key sources used for gathering subdomains include:
 
-- [**TraceNinja:**](https://github.com/mohdh34m/TraceNinja) TraceNinja is a subdomain enumeration tool.
+- **CRTsh:** crt.sh searches Certificate Transparency logs to find subdomains.
 
-- [**Subfinder:**](https://github.com/projectdiscovery/subfinder) Discovers subdomains from passive sources.
+- **SecurityTrails:** SecurityTrails provides subdomain information through its comprehensive domain and DNS records database.
 
-- [**Assetfinder:**](https://github.com/tomnomnom/assetfinder) Finds subdomains for a specified domain.
+- **VirusTotal:** VirusTotal discovers subdomains by aggregating data from various domain records and sources.
+
+- **Wayback Machine:** Wayback Machineidentifies subdomains by crawling and archiving historical snapshots of web pages and their subdomains.
+
+- *etc..*
+
+SubCortex gathers its resources from subdomain tools, in addition to APIs. Key sources necessary for collecting subdomains include:
+
+- [**TraceNinja:**](https://github.com/mohdh34m/TraceNinja) TraceNinja is a subdomain enumeration tool. *(required)*
+
+- [**Subfinder:**](https://github.com/projectdiscovery/subfinder) Discovers subdomains from passive sources. *(required)*
+
+- [**Assetfinder:**](https://github.com/tomnomnom/assetfinder) Finds subdomains for a specified domain. *(required)*
 
 
 ## 🔗 Links

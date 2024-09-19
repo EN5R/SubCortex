@@ -71,7 +71,7 @@ SubCortex collects its resources through APIs. Key sources used for gathering su
 
 - **VirusTotal:** VirusTotal discovers subdomains by aggregating data from various domain records and sources.
 
-- **Wayback Machine:** Wayback Machineidentifies subdomains by crawling and archiving historical snapshots of web pages and their subdomains.
+- **Wayback Machine:** Wayback Machine identifies subdomains by crawling and archiving historical snapshots of web pages and their subdomains.
 
 - *etc..*
 

@@ -47,7 +47,7 @@ def gather_subdomains(domain):
     
     time.sleep(5)  # Tor'un başlatılması için kısa bir bekleme süresi
     
-    VT_API_KEY = '405ed2f47caf31808a2720a6a63d6106e9a9d3f09a935d2f0895eb7d2a1b8dd9'
+    VT_API_KEY = 'your_virustotal_api_key_here'
     
     # API anahtarının boş olup olmadığını kontrol et
     if VT_API_KEY == 'your_virustotal_api_key_here' or not VT_API_KEY.strip():

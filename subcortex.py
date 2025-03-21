@@ -27,7 +27,7 @@ def print_banner():
 
 	My Github Profile: 		https://github.com/EN5R
 	My X Profile:			https://x.com/EN544R
-	My Telegram Channel: 		https://t.me/+K3G9CJmZfShmOGI0
+	My Telegram Channel: 		https://t.me/+nYkVXh79tSMyZGU0
 	My Buy Me a Coffee Page:	https://buymeacoffee.com/EN5R
 	
     """

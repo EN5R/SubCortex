@@ -4,4 +4,5 @@ argparse==1.4.0
 asyncio==3.4.3
 asyncio-requests==2.7.3
 aiohttp==3.12.13
+beautifulsoup4==4.13.4
 subprocess32==3.5.4 # Python 3.5 ve öncesi için subprocess ile uyumlu hale getirir

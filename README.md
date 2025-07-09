@@ -24,7 +24,7 @@ SubCortex is a fast and effective tool designed for discovering valid subdomains
 You can view the usage instructions with the following command:
 
 ```bash
-  python3.12 subcortex.py -h
+  python3.13 subcortex.py -h
 ```
 
 ## Examples
@@ -32,14 +32,14 @@ You can view the usage instructions with the following command:
 To collect subdomains:
 
 ```bash
-  python3.12 subcortex.py -d example.com
+  python3.13 subcortex.py -d example.com
 ```
 ## Installation
 
 SubCortex can be easily installed along with its required libraries as follows:
 
 ```bash
-  pip3.12 install -r requirements.txt
+  pip3.13 install -r requirements.txt
 ```
     
 ## Running
@@ -47,7 +47,7 @@ SubCortex can be easily installed along with its required libraries as follows:
 You can run SubCortex with the following command:
 
 ```bash
-  python3.12 subcortex.py -d example.com
+  python3.13 subcortex.py -d example.com
 ```
 
 ## Important Note
